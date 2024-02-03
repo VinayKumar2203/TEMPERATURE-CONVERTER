@@ -1,0 +1,25 @@
+.totalApp {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .celsius,
+  .fahrenheit {
+    text-align: center;
+  }
+  
+  .celsius label,
+  .fahrenheit label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .celsius input,
+  .fahrenheit input {
+    padding: 8px;
+    width: 150px;
+    border-radius: 10px;
+  }
+  
